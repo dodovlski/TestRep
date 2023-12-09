@@ -1,3 +1,5 @@
 ucuncu textim
 
 duygudan gelen son commit
+
+ucuncuyu clonelayıp güncelledim
